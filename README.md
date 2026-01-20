@@ -27,6 +27,6 @@ coding
 ⠀⠀⠀⠀⠀⠀⡏⢸⠁⣿⡄⣿⣿⡆⠀⠐⠈⣿⣷⠈⠻⣷⣀⠀⣹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣞⡟⠀⢀⣼⣿⣿⡇⣸⡇⣯⡇⠀⠀
 
 
->You got it set to 'M" for Mini, when it should be set to 'W' for Wumbo.
+>You got it set to 'M' for Mini, when it should be set to 'W' for Wumbo.
 
 [![My Skills](https://skillicons.dev/icons?i=bun,ts,go,react,nextjs,elysia)](https://skillicons.dev)
