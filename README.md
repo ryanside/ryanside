@@ -1,5 +1,4 @@
 # ryanside 🐧
-addicted to creating
 
 >Someone tell Vedal there is a problem with my AI.
 
